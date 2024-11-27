@@ -18,4 +18,12 @@
 │
 ```
 
+<h2>Aplicação Hello</h2>
 
+A aplicação contem apenas uma função chamada "hello", que retorna "Hello, DevOps!".
+o codigo abaixo é uma demonstração de como printar o retorno da função.
+
+``` python
+print(hello())
+
+```
