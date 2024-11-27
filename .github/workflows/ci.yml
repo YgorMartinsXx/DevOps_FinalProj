@@ -2,7 +2,8 @@ name: CI
 
 on:
   push:
-    branches: [ main ]
+    branches: 
+      - feature/hello-world
   pull_request:
     branches: [ main ]
 
@@ -31,6 +32,6 @@ jobs:
 
     - name: Executar Testes
       run: |
-        python \tests\test_hello.py
+        python tests/test_hello.py
 
         
