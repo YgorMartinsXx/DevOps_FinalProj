@@ -31,4 +31,6 @@ jobs:
 
     - name: Executar Testes
       run: |
-        python /tests/test_hello.py
+        python \tests\test_hello.py
+
+        
