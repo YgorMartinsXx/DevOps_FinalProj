@@ -1,0 +1,10 @@
+README.md
+setup.py
+Projeto_Final_DevOps.egg-info/PKG-INFO
+Projeto_Final_DevOps.egg-info/SOURCES.txt
+Projeto_Final_DevOps.egg-info/dependency_links.txt
+Projeto_Final_DevOps.egg-info/top_level.txt
+src/__init__.py
+src/hello.py
+tests/__init__.py
+tests/test_hello.py
