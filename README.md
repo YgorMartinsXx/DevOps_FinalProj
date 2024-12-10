@@ -1,4 +1,4 @@
-<h1>FinalProj_DevOpsh1</h1>
+<h1>FinalProj_DevOps</h1>
 
 <h2>Descrição</h2>
 
